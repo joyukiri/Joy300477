@@ -3,7 +3,7 @@
 Welcome to my GitHub profile!
 
 I'm passionate about technology, learning new things, and collaborating on exciting projects.
-I love exloring data to uncover trends, solve problems and support decisions making with evidence.
+I love exploring data to uncover trends, solve problems and support decisions making with evidence.
 
 ---
 
