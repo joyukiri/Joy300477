@@ -14,7 +14,7 @@ I am committed to continuous learning, problem solving, collaboration, and using
 
 ### 👩‍💻 About Me
 - 📊 Passionate about Data Analytics and Network security.
-- 💻 Experienced in Cybersecuirty awareness and initiative.
+- 💻 Experienced in Cybersecurity awareness and initiative.
 - 📈 Interested in transforming raw data into meaningful insights.
 - 📋 Skilled in data entry, data cleaning, reporting, and documentation.
 - 📅 Interested in calendar management, email management, and task coordination.
@@ -42,7 +42,7 @@ I am committed to continuous learning, problem solving, collaboration, and using
 - Communication Tools: Slack, Zoom, Microsoft Teams, WhatsApp, Google Meet
 
 ### ⚡ Fun fact
-- I enjoy turning messy data into meaningful stories and finding smarter ways to get things done while protecting digital information.
+- I enjoy turning messy data into meaningful stories and finding smarter ways to get things done, while protecting digital information.
 
 ### 🤝 Let's Connect!
 I am open to professional opportunities, freelance projects, collaborations, and learning experiences
