@@ -4,7 +4,7 @@ Welcome to my GitHub profile!
 
 📊 Data Analyst | Virtual Assistant | Business Intelligence Enthusiast
 
-A detail-oriented Data Analyst and Virtual Assistant passionate about helping businesses turn data into actionable insights while improving productivity through efficient administrative and operational support.
+A detail-oriented Data Analyst and Virtual Assistant that is passionate about helping businesses turn data into actionable insights while improving productivity through efficient administrative and operational support.
 
 I combine analytical thinking, technical expertise, organization, and problem-solving skills to support business growth and streamline everyday tasks.
 
