@@ -29,7 +29,8 @@ Whether it's analyzing datasets, creating interactive dashboards, managing infor
 
 ### 👯 I’m looking to collaborate on
 - Open-source projects
-- Innovative and impactful tech solutions
+- Virtual Assistant and administrative support projects
+- Innovative projects that solve real-world business problems.
 
 ### 🛠️ Skills & Tools
 - Data Analytics: Excel, SQL, Power BI, Python
