@@ -29,6 +29,7 @@ Whether it's analyzing datasets, creating interactive dashboards, managing infor
 
 ### 👯 I’m looking to collaborate on
 - Open-source projects
+- Data Analytics and Business Intelligence projects.
 - Virtual Assistant and administrative support projects
 - Innovative projects that solve real-world business problems.
 
