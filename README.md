@@ -12,13 +12,20 @@ Whether it's analyzing datasets, creating interactive dashboards, managing infor
 
 ---
 
-### 🔭 I’m currently working on
-- Building scalable and maintainable data analysis projects
-- Enhancing my skills through hands-on development
+### 👩‍💻 About Me
+- 📊 Passionate about Data Analytics and Business Intelligence.
+- 💻 Experienced in administrative and operational support.
+- 📈 Interested in transforming raw data into meaningful insights.
+- 📋 Skilled in data entry, data cleaning, reporting, and documentation.
+- 📅 Interested in calendar management, email management, and task coordination.
+- 🤝 Strong communication, organization, and time-management skills.
+- 🌱 Constantly learning new tools and improving my professional skills.
+- 🎯 Open to remote opportunities, freelance projects, and collaborations.
 
 ### 🌱 I’m currently learning
 - New programming languages and frameworks
 - System design and clean architecture principles
+- Fundamentals in Cybersecurity
 
 ### 👯 I’m looking to collaborate on
 - Open-source projects
