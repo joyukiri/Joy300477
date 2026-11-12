@@ -1,9 +1,14 @@
-## 👋 Hi, I'm Joy!
+## 👋 Hi, I'm Joy Ukiri!
 
 Welcome to my GitHub profile!
 
-I'm passionate about technology, learning new things, and collaborating on exciting projects.
-I love exploring data to uncover trends, solve problems and support decisions making with evidence.
+📊 Data Analyst | Virtual Assistant | Business Intelligence Enthusiast
+
+A detail-oriented Data Analyst and Virtual Assistant passionate about helping businesses turn data into actionable insights while improving productivity through efficient administrative and operational support.
+
+I combine analytical thinking, technical expertise, organization, and problem-solving skills to support business growth and streamline everyday tasks.
+
+Whether it's analyzing datasets, creating interactive dashboards, managing information, organizing schedules, or providing administrative support, I enjoy delivering accurate, efficient, and result-driven solutions.
 
 ---
 
