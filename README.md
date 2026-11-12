@@ -31,16 +31,22 @@ Whether it's analyzing datasets, creating interactive dashboards, managing infor
 - Open-source projects
 - Innovative and impactful tech solutions
 
-### 💬 Ask me about
-- SQL(MySQL, PostgreSQL)
-- EXCEL
-- POWERBi
+### 🛠️ Skills & Tools
+- Data Analytics: Excel, SQL, Power BI, Python
+- Virtual Assistance: Data Entry, Email Management, Calendar Scheduling, Internet Research
+- Productivity Tools: Google Workspace, Microsoft Office, Trello, Canva, Calendly
 
 ### 📫 How to reach me
 - Email: joyceukiri@gmail.com
 - LinkedIn: https://www.linkedin.com/in/joy-ukiri
 
 ### ⚡ Fun fact
-- I love solving real-world problems through code and learning something new every day!
+- I enjoy turning messy data into meaningful stories and finding smarter ways to get things done!
 
+### 🤝 Let's Connect!
+- 📍 Lagos, Nigeria
+- 💼 LinkedIn: https://www.linkedin.com/in/joy-ukiri
+- 📧 Email: joyceukiri@gmail.com
+
+Turning Data into Insights and Supporting Business Growth! 🚀
 ---
