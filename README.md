@@ -35,6 +35,7 @@ Whether it's analyzing datasets, creating interactive dashboards, managing infor
 - Data Analytics: Excel, SQL, Power BI, Python
 - Virtual Assistance: Data Entry, Email Management, Calendar Scheduling, Internet Research
 - Productivity Tools: Google Workspace, Microsoft Office, Trello, Canva, Calendly
+- Communication Tools: Slack, Zoom, Microsoft Teams, WhatsApp, Google Meet
 
 ### ⚡ Fun fact
 - I enjoy turning messy data into meaningful stories and finding smarter ways to get things done!
