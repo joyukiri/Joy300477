@@ -25,8 +25,8 @@ I love exploring data to uncover trends, solve problems and support decisions ma
 - POWERBi
 
 ### 📫 How to reach me
-- Email: [joyceukiri@gmail.com] 
-- LinkedIn: [your-linkedin-profile] *(optional)*
+- Email: joyceukiri@gmail.com
+- LinkedIn: https://www.linkedin.com/in/joy-ukiri
 
 ### ⚡ Fun fact
 - I love solving real-world problems through code and learning something new every day!
