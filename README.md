@@ -59,7 +59,7 @@ I am open to professional opportunities, freelance projects, collaborations, and
 [View Project](https://github.com/joyukiri/Cybersecurity-CTF-Lab)
 
 ### Pizza Sales Data Analysis
-Data Analysis project exploring pizza sales performance, customer trends, and revenue insights.
+#### Data Analysis project exploring pizza sales performance, customer trends, and revenue insights.
 **Skills ** Data cleaning, Data visualisation, KPI tracking, Dashboard development, Sales analysis, Excel
 
 [View Project](https://github.com/joyukiri/Pizza-Sales-Analysis.git)
