@@ -1,4 +1,4 @@
-##👋 Hi, I'm Joy Ukiri!
+## 👋 Hi, I'm Joy Ukiri!
 
 Welcome to my GitHub profile!
 
