@@ -54,6 +54,6 @@ I am open to professional opportunities, freelance projects, collaborations, and
 
 ---
 ### Cybersecurity Projects
-** Skills ** Linux, CTF challenges, Pen Testing
+**Skills **Linux, CTF challenges, Pen Testing
 
 [View Project](https://github.com/joyukiri/Cybersecurity-CTF-Lab
