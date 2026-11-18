@@ -50,5 +50,5 @@ I am open to professional opportunities, freelance projects, collaborations, and
 - 💼 LinkedIn: https://www.linkedin.com/in/joy-ukiri
 - 📧 Email: joyceukiri@gmail.com
 
-## Turning Data into Insights. Supporting Businesses Growth and Building a Safer Digital World! 🚀
+### Turning Data into Insights. Supporting Businesses Growth and Building a Safer Digital World! 🚀
 ---
