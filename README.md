@@ -53,7 +53,7 @@ I am open to professional opportunities, freelance projects, collaborations, and
 ### Turning Data into Insights. Supporting Businesses Growth and Building a Safer Digital World! 🚀
 
 ---
-### Cybersecurity Projects
+### Cybersecurity Projects (Capture The Flag Collection, Vol.1)
 **Skills **Linux, CTF challenges, Pen Testing
 
 [View Project](https://github.com/joyukiri/Cybersecurity-CTF-Lab
