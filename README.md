@@ -56,10 +56,10 @@ I am open to professional opportunities, freelance projects, collaborations, and
 ### Cybersecurity Projects (Capture The Flag Collection, Vol.1)
 **Skills **Linux, CTF challenges, Pen Testing
 
-[View Project](https://github.com/joyukiri/Cybersecurity-CTF-Lab
+[View Project](https://github.com/joyukiri/Cybersecurity-CTF-Lab)
 
 ### Pizza Sales Data Analysis
 Data Analysis project exploring pizza sales performance, customer trends, and revenue insights.
 **Skills ** Data cleaning, Data visualisation, KPI tracking, Dashboard development, Sales analysis, Excel
 
-[View Project] (
+[View Project](https://github.com/joyukiri/Pizza-Sales-Analysis.git)
