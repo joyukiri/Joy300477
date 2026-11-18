@@ -51,4 +51,9 @@ I am open to professional opportunities, freelance projects, collaborations, and
 - 📧 Email: joyceukiri@gmail.com
 
 ### Turning Data into Insights. Supporting Businesses Growth and Building a Safer Digital World! 🚀
+
 ---
+### Cybersecurity Projects
+**Skills **Linux, CTF challenges, PenTesting
+
+[View Project](https://github.com/joyukiri/Cybersecurity-CTF-Lab
